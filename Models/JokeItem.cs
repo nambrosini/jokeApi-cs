@@ -5,4 +5,5 @@ public class JokeItem
     public int Upvotes { get; set; }
     public int Downvotes { get; set; }
     public string Author { get; set; }
+    public string Secret { get; set; }
 }
